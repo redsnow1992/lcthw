@@ -4,3 +4,6 @@ ex*
 !ex19
 !ex20
 *.dat
+devpkg/devpkg
+*.plist
+*.dSYM
